@@ -2,6 +2,3 @@ variable "type" {
  
 }
 
-variable "env" {
- 
-}
